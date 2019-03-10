@@ -1,7 +1,7 @@
 function getFirstSelector(selector){
   if (selector === id){
     document.querySelector("#selector");
-  } else if (selector === class){
+  } else if (selector === className){
     document.querySelector(".selector");
   }
 }
